@@ -37,15 +37,15 @@ def getScheduleMenuItems():
     ]
     return menuItems
 
-def getHomeTaskMenuItems():
-    menuItems = [
-        'Выход в предыдущее меню',
-        'Показать Д/З на сегодня',
-        'Показать Д/З на завтра',
-        'Показать Д/З на эту неделю',
-        'Показать Д/З на следующую неделю',
-    ]
-    return menuItems
+# def getHomeTaskMenuItems():
+#     menuItems = [
+#         'Выход в предыдущее меню',
+#         'Показать Д/З на сегодня',
+#         'Показать Д/З на завтра',
+#         'Показать Д/З на эту неделю',
+#         'Показать Д/З на следующую неделю',
+#     ]
+#     return menuItems
 
 
 ############ SHOW SCHEDULE ############
